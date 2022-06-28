@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="drawing" width="900" height="200" clas="center"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="drawing" width="500" height="320" clas="center"/>
 
 
 ### Hi there 👋
