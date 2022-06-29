@@ -1,5 +1,3 @@
- <h1 align="center">Christian Luengo</h1>
-
 <img align="right" height="270px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" /> 
 
 ### Hi there 👋 
