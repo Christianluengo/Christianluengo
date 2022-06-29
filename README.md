@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## Find me around the web 🌎: <a href="https://github.com/Christianluengo"><img align="right" width="200" height="200
+## Find me around the web 🌎: <a href="https://github.com/Christianluengo"><img align="right" width="200" height="200"
   src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
