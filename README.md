@@ -1,4 +1,4 @@
-### Hi there 👋 <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="left" width="150" height="150" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"></a>
+### Hi there 👋 <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="left" width="300" height="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"></a>
 
 I am a data analyst. I work with ETL processes, data analysis and machine learning.</a>
 
