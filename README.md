@@ -1,5 +1,3 @@
-<div align="center" width="50">
-
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF"  width="250"/><br> 
 
 ### Hi there 👋
