@@ -1,23 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/Christianluengo"><img align="right" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"></a>
+I am a data analyst. I work with ETL processes, data analysis and machine learning.
 
-## Find me around the web 🌎: <a href="https://github.com/Christianluengo"><img align="right" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-  
- 
-<!--
-**Christianluengo/Christianluengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These are the technologies I use for **Data Analysis**:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Python | Git| SQL | Streamlit | Python: matplotlib, seaborn, plotly |
+| Bash | | MongoDB |  | Tableau
+| SQL|  |  |  | Kepler
