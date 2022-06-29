@@ -7,5 +7,5 @@ These are the technologies I use for **Data Analysis**:</a>
 | **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|</a>
 | --------------- | --------------- | --------------- | --------------- | --------------- |</a>
 | Python | Git| SQL | Streamlit | Python: matplotlib, seaborn, plotly | </a>
-| Bash | | MongoDB |  | Tableau | </a>
-| SQL|  |  |  | Kepler | </a>
+| Bash | | MongoDB |  | Tableau </a>
+| SQL|  |  |  | Kepler </a>
