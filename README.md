@@ -9,9 +9,9 @@
   
 ### Hi there 👋
 
-I am a data analyst. I work with ETL processes, data analysis and machine learning.
+I am a data analyst. I work with ETL processes, data analysis and machine learning.</a>
 
-These are the technologies I use for **Data Analysis**:
+These are the technologies I use for **Data Analysis**:</a>
 
 | **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
 | --------------- | --------------- | --------------- | --------------- | --------------- |
