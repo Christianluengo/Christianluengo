@@ -4,8 +4,8 @@ I am a data analyst. I work with ETL processes, data analysis and machine learni
 
 These are the technologies I use for **Data Analysis**:</a>
 
-| **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|</a>
-| --------------- | --------------- | --------------- | --------------- | --------------- |</a>
-| Python | Git| SQL | Streamlit | Python: matplotlib, seaborn, plotly | </a>
-| Bash | | MongoDB |  | Tableau </a>
-| SQL|  |  |  | Kepler </a>
+| **Languages** 🧑‍💻 | **VSC** 📆| **Databases** 🐬| **Deployment** ☁️ | **Visualization** 📊|
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Python | Git| SQL | Streamlit | Python: matplotlib, seaborn, plotly |
+| Bash | | MongoDB |  | Tableau
+| SQL|  |  |  | Kepler 
