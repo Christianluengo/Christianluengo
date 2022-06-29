@@ -1,7 +1,9 @@
-<a href="https://github.com/Christianluengo"><img align="right" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"></a>
-I am a data analyst. I work with ETL processes, data analysis and machine learning.
-
+<div align="right" width="50">
+<img src=https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true alt="GIF"  width="250"/><br>
+  
 ### Hi there 👋
+
+I am a data analyst. I work with ETL processes, data analysis and machine learning.
 
 These are the technologies I use for **Data Analysis**:
 
